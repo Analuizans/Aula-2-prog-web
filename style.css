@@ -1,25 +1,17 @@
-<html> 
+<html>       
+ <head>
+  <title>Prog web atividade</title>
+  <link rel="stylesheet"href="ana.css">
+ <style>
+   h3{
+    color:blue;
+}
+  </style>
+  </head> 
+  <body>
+    <h1 styles="color:green;font-family:verdana;">pagina com estilo prog web</h1>
+    <h3>introdução a css</h3>
+    <p style="color=antiquewhite;">introdução a HTML e CSS</p> 
 
-     <head> 
-
-                <title> Atividade prog web 1 </title>
-   
-        <link rel= "stylesheet" href=
-       "ana.css">
-      <style>
-     h3{ 
-          color:green; 
-}       
-      </style>
-      </head>
-       <body>       
-
-                <h1> Pagina com estilo prog web</h1> 
-                 <h1 styles="color:blue;font-family:verdana;">
-                </h1>
-                <h3> introdução a css</h3>
-                <p> Introdução a HTML e CSS </p>
-                 <p style="color:antiquewhite;">       
-       
-</body>
-<html>        
+   </body>
+</html>
