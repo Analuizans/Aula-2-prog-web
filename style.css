@@ -1,26 +1,25 @@
 <html> 
 
-       <head> 
+     <head> 
 
                 <title> Atividade prog web 1 </title>
-        <style> 
-
-               h1, h2
-                      (color: green;) 
-
-                      font-family : serif 
-
-        </style> 
-        <style type= "text/css">
+   
         <link rel= "stylesheet" href=
-       "introcss.css">
-
-
-
+       "ana.css">
+      <style>
+     h3{ 
+          color:green; 
+}       
+      </style>
+      </head>
        <body>       
 
-                < h1> Pagina com estilo prog web</h1> 
-
-                <p> Introdução a HTML e CSS </p> 
-        </body>
+                <h1> Pagina com estilo prog web</h1> 
+                 <h1 styles=color:blue;font-family:verdana;>
+                </h1>
+                <h3> introdução a css</h3>
+                <p> Introdução a HTML e CSS </p>
+                 <p style= color:antiwhite;>       
+       
+</body>
 <html>        
